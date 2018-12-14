@@ -1,5 +1,4 @@
 # DiabetesHealthcare-Management
-
 A full stack appliaction
 
 
